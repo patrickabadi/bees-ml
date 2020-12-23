@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+bee_image_dataset_bee_health/
+kaggle_bee_vs_wasp/
